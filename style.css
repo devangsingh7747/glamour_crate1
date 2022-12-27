@@ -1,0 +1,109 @@
+
+
+.header {
+    color: whitesmoke;
+}
+
+.header_set {
+    background-color: black;
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+
+.nav-link:hover {
+    background-color: rgb(83, 82, 82);
+    color: white;
+}
+
+#icons {
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgb(75, 74, 74);
+}
+
+#icons:hover {
+    background-color: whitesmoke;
+}
+
+#nav1 {
+    padding-left: 30%;
+    padding-bottom: 10px;
+}
+
+.img {
+    padding: 7px;
+    border-radius: 60%;
+}
+
+.h3{
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+
+.offer {
+    padding-left: 550px;
+    padding-bottom: 20px;
+}
+
+#grid1 {
+    background-color: black;
+}
+
+#grid1:hover {
+    background-image: url(./grey_bg.webp);
+}
+
+.grid_text {
+    padding-top: 10px;
+    color: whitesmoke;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.grid_check_out {
+    padding-bottom: 4px;
+    background-color: rgb(216, 213, 213);
+}
+
+.grid_check_out:hover {
+    background-color: whitesmoke;
+}
+
+.premium {
+    padding-left: 550px;
+}
+
+.text_premium {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.price {
+    padding-left: 20px;
+    font-size: 32px;
+    color: rgb(233, 73, 73);
+}
+
+.locator {
+    padding-left: 150px;
+}
+
+.map {
+    padding-left: 70px;
+}
+
+.column {
+    width: 33.33%;
+}
+
+.footer {
+    background-color: black;
+}
+
+.text {
+    color: whitesmoke;
+}
